@@ -1,0 +1,5 @@
+The Home Depot screw dataset:
+https://gtvault-my.sharepoint.com/:f:/g/personal/jma416_gatech_edu/EqBf7dco2IxPoSzYD57H8nIBQPmZrbYUtgbg_5DA0h2eWA?e=kDh0xX
+
+
+Please download the dataset and put it in the folder: Data/home depot_screw__short_prompt/screws/

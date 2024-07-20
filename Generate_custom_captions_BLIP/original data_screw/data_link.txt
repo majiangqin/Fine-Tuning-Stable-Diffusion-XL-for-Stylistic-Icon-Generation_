@@ -1,0 +1,4 @@
+Public resources screw dataset:
+https://gtvault-my.sharepoint.com/:f:/g/personal/jma416_gatech_edu/EoDiXB-YdJxLl1RCWVhTSB0Bm3yvXvKQwrNvL38R8bAAsg?e=XzJMzW
+
+Please download the dataset and put it in the folder: Generate_custom_captions_BLIP/original data_screw/

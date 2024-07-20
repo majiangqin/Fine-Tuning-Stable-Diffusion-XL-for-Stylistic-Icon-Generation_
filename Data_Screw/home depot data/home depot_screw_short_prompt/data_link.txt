@@ -1,0 +1,2 @@
+The Home Depot screw dataset is not open to public, please use your own dataset or the public dataset.
+Please download the dataset and put it in the folder: Data/home depot_screw_short_prompt/screws/

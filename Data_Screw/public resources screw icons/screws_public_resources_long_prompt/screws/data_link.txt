@@ -1,0 +1,4 @@
+The public resources screw dataset:
+https://gtvault-my.sharepoint.com/:f:/g/personal/jma416_gatech_edu/EoDiXB-YdJxLl1RCWVhTSB0Bm3yvXvKQwrNvL38R8bAAsg?e=3McPaN
+
+Please download the dataset and put it in the folder: Data/screws_public_resource_long_prompt/screws/

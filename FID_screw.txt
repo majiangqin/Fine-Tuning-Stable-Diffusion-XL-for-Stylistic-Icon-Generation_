@@ -1,0 +1,7 @@
+home depot data with class images short prompt FID score: 200.0596505548032
+home depot data long prompt FID score: 253.80454355417922
+home depot data short prompt FID score: 247.96783296112085
+Dalle FID score: 340.03011449054503
+
+public data long prompt FID score: 263.48462964934504
+public data short prompt FID score: 227.69460816527018

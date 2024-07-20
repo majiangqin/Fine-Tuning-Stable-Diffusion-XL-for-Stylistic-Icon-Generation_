@@ -1,0 +1,1 @@
+<style: 2D icon>, <cabinet type: base>, <color: maple>, <description: two drawers on top and two doors at the bottom>

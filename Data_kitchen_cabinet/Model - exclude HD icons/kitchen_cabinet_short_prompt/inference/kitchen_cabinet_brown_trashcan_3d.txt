@@ -1,0 +1,1 @@
+<style: 3D icon>, <cabinet type: base>, <color: brown>, <description: pull-out trash can>

@@ -1,0 +1,7 @@
+pytorch-fid
+transformers
+urllib3
+torch
+pillow
+openai
+ipython

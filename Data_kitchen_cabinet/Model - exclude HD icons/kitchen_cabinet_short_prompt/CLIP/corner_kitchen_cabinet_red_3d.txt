@@ -1,0 +1,1 @@
+<style: 3D icon>, <cabinet type: corner>, <color: red>

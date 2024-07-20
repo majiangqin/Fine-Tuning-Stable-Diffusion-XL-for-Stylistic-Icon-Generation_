@@ -1,0 +1,27 @@
+dreambooth-concept-selected folder is the checkpoint for Stable Diffusion model.
+pytorch_lora_weights1.safetensors is training to use the original prompts file, performance is very bad
+pytorch_lora_weights2.safetensors is training to use the manually revised prompts file, performance is better than 1, but still bad
+pytorch_lora_weights3.safetensors, keep manually revised prompts file and train pytorch_lora_weights4.safetensors, keep manually revised prompts file and train, do data clean
+pytorch_lora_weights5.safetensors is training use the shorter prompts file (only use keywords) without class images, and do data clean more. much better performance
+pytorch_lora_weights55.safetensors is training use the shorter prompts file (only use keywords), and do data clean more. And add more data
+pytorch_lora_weights6.safetensors is training use the shorter prompts file and class images of different item icons from the home depot dataset, performance worse than weights5.
+pytorch_lora_weights7.safetensors is training to use the new prompts file (add identifier <>) without class images, and add new data, better performance than weights5 and 55
+pytorch_lora_weights8.safetensors is training to use the new prompts file (add identifier <>) with class images (the same as training data), and add new data, worse performance than weights5
+pytorch_lora_weights9.safetensors is training to use the new prompts file (add identifier <>) and add new data, max_train_steps=900. Generated images stored in output2, bad performance
+pytorch_lora_weights77.safetensors is training to use the new prompts file (add identifier <>) without class images, and add new data
+pytorch_lora_weights10.safetensors is training to use the new prompts file (add identifier <>) and add new data, use different kinds of class images, not good
+pytorch_lora_weights11.safetensors is training to use the new prompts file (add identifier <>) and add new data, use different kinds of class images, not good
+pytorch_lora_weights12.safetensors is training to use the new prompts file (add identifier <>) and add new data, use different kinds of class images, not good
+pytorch_lora_weights13.safetensors is training to use the new prompts file (add identifier <>) and add new data, use different kinds of class images, not good
+pytorch_lora_weights14.safetensors is training to use the short prompts file and only home depot data
+pytorch_lora_weights15.safetensors is training to use the long prompts file and only home depot data
+pytorch_lora_weights16.safetensors is training to use the short prompts file, class images and only home depot data
+
+pytorch_lora_weights17.safetensors is training to use the long prompts file, only with public data
+pytorch_lora_weights18.safetensors is training to use the short prompts file, only with public data
+
+Best checkpoint is pytorch_lora_weights14.safetensors is training to use the short prompts file and
+home depot data, which is also located in the folder: home depot screw icons/home depot_screw_short_prompt/pytorch_lora_weights.safetensors
+
+These files are larger than 100MB, so I can't upload them to github. The access link is:
+https://gtvault-my.sharepoint.com/:f:/g/personal/jma416_gatech_edu/EhfPinRiQRdHuQllpzssYAEBGweEDgx4OqVrU4AcgzGOig?e=UdO7F2

@@ -1,0 +1,9 @@
+Average short prompt CLIP Score: 0.3040697187185287
+Average short prompt with class images CLIP Score: 0.2846155911684036
+Average Dalle CLIP Score: 0.3192988157272339
+Average long prompt CLIP Score: 0.29869663417339326
+
+Average public data short prompt CLIP Score: 0.3214250471856859
+Average public data long prompt CLIP Score: 0.3280314542353153
+
+
