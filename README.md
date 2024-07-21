@@ -35,20 +35,21 @@ Public resources kitchen cabinet dataset directory:
 Data_kitchen_cabinet/Final Dataset
 
 ## Citation
-If you find our work useful in your research, please consider citing:    @misc{
-    sultan2024finetuningstablediffusionxl,
+If you find our work useful in your research, please consider citing:    
 
-    title={Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size},
+@misc{    sultan2024finetuningstablediffusionxl,
+
+        title={Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size},
     
-    author={Youssef Sultan and Jiangqin Ma and Yu-Ying Liao},
+        author={Youssef Sultan and Jiangqin Ma and Yu-Ying Liao},
     
-    year={2024},
+        year={2024},
     
-    eprint={2407.08513},
+        eprint={2407.08513},
     
-    archivePrefix={arXiv},
+        archivePrefix={arXiv},
     
-    primaryClass={cs.CV},
+        primaryClass={cs.CV},
     
-    url={https://arxiv.org/abs/2407.08513}}
+        url={https://arxiv.org/abs/2407.08513}}
 
