@@ -37,7 +37,8 @@ Data_kitchen_cabinet/Final Dataset
 ## Citation
 If you find our work useful in your research, please consider citing:
 
-@misc{sultan2024finetuningstablediffusionxl,
+@misc{
+    sultan2024finetuningstablediffusionxl,
 
     title={Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size},
     
