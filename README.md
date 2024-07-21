@@ -38,12 +38,19 @@ Data_kitchen_cabinet/Final Dataset
 If you find our work useful in your research, please consider citing:
 
 @misc{sultan2024finetuningstablediffusionxl,
+
     title={Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size},
+    
     author={Youssef Sultan and Jiangqin Ma and Yu-Ying Liao},
+    
     year={2024},
+    
     eprint={2407.08513},
+    
     archivePrefix={arXiv},
+    
     primaryClass={cs.CV},
+    
     url={https://arxiv.org/abs/2407.08513}
 }
 
