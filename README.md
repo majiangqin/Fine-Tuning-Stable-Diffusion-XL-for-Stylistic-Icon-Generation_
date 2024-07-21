@@ -38,9 +38,8 @@ Data_kitchen_cabinet/Final Dataset
 
 If you find our work useful in your research, please consider citing it as follows:
 
-```bibtex
-@misc{
-    sultan2024finetuningstablediffusionxl,
+```text
+@misc{sultan2024finetuningstablediffusionxl,
     title={Fine-tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size},
     author={Youssef Sultan, Jiangqin Ma, and Yu-Ying Liao},
     year={2024},
@@ -49,5 +48,6 @@ If you find our work useful in your research, please consider citing it as follo
     primaryClass={cs.CV},
     url={URL: https://arxiv.org/abs/2407.08513}
 }
+
 
 
