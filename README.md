@@ -35,9 +35,7 @@ Public resources kitchen cabinet dataset directory:
 Data_kitchen_cabinet/Final Dataset
 
 ## Citation
-If you find our work useful in your research, please consider citing:
-
-@misc{
+If you find our work useful in your research, please consider citing:    @misc{
     sultan2024finetuningstablediffusionxl,
 
     title={Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation: A Comparison of Caption Size},
@@ -52,6 +50,5 @@ If you find our work useful in your research, please consider citing:
     
     primaryClass={cs.CV},
     
-    url={https://arxiv.org/abs/2407.08513}
-}
+    url={https://arxiv.org/abs/2407.08513}}
 
