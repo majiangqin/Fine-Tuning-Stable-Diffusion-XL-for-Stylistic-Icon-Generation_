@@ -1,5 +1,5 @@
 # Fine-Tuning Stable Diffusion XL for Stylistic Icon Generation
-This repository contains the dataset, code and documentation for fine-tuning the Stable Diffusion XL model to generate stylistic icons, comparing different caption sizes. Our work builds on the Stable Diffusion model, incorporating enhancements and specialized training procedures.
+This repository contains the dataset, code, and documentation for fine-tuning the Stable Diffusion XL model using DreamBooth technology to generate stylistic icons, comparing different caption sizes. Our work builds on the Stable Diffusion model, incorporating enhancements and specialized training procedures from DreamBooth.
 
 The related paper can be found [here](https://arxiv.org/abs/2407.08513).
 ## Installation
