@@ -12,5 +12,5 @@ BLIP.py can generate the prompt file megadata.jsonl using the BLIP model, stored
 'original data_screw' folder contains the original Home Deopt screw icons, after data cleaning. 
 
 ## Data
-'original data_screw' folder save at Dropbox, can accessed at: 
+'original data_screw' folder save at Dropbox, which is not open to public
 
