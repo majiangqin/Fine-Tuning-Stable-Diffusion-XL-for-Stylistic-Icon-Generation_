@@ -10,7 +10,7 @@ model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32").to(device)
 processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
 
 
-root_dir = "Data_Screw/home depot data/home depot_screw_short_prompt/CLIP"
+root_dir = "../Data_Screw/home depot data/home depot_screw_short_prompt/CLIP"
 
 
 clip_scores = []
@@ -60,7 +60,7 @@ if clip_scores:
     average_clip_score = sum(clip_scores) / len(clip_scores)
     print(f"Average CLIP Score: {average_clip_score}")
 
-    with open("CLIP_screw.txt", 'a') as f:
+    with open("../Results/CLIP_screw.txt", 'a') as f:
         f.write(f'\nAverage public data long prompt CLIP Score: {average_clip_score}\n')
 else:
     print("No CLIP scores calculated.")

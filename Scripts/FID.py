@@ -122,7 +122,7 @@ def calculate_fid_given_paths(paths, batch_size, device, dims, num_workers):
 
 def main():
     dataset1_path = "Data_Screw/home depot data/home depot FID"
-    dataset2_path = "DALL.E/inference FID"
+    dataset2_path = "../DALL.E/inference FID"
 
     resize_images_in_directory(dataset1_path)
     resize_images_in_directory(dataset2_path)
@@ -140,7 +140,7 @@ def main():
     print(f"FID Value: {fid_value}")
 
 
-    output_file = "FID_screw.txt"
+    output_file = "../Results/FID_screw.txt"
     with open(output_file, 'a') as f:
         f.write(f"Dalle FID score: {fid_value}\n")
 
